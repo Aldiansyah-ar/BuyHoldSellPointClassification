@@ -10,7 +10,7 @@ The stocks data are gathered from https://stooq.com and https://alphavantage.com
 
 ## Stack
 
-* Python (Scikitlearn, Tensorflow)
+Python (Scikitlearn, Tensorflow)
 
 ## Project Member
 - Aldiansyah Anugrah Ramadhan
