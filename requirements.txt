@@ -1,0 +1,9 @@
+imbalanced-learn
+matplotlib
+numpy
+pandas
+pandas-ta
+scikit-learn
+seaborn
+technical-analysis
+tensorflow
