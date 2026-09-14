@@ -6,7 +6,7 @@
 
 ## Data Collection
 
-* The stocks data are gathered from https://stooq.com and https://alphavantage.com
+The stocks data are gathered from https://stooq.com and https://alphavantage.com
 
 ## Stack
 
